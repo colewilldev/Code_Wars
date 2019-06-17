@@ -3,7 +3,7 @@
 
 <iframe src="https://giphy.com/embed/3oeSB1S60hCgcQ5uc8" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactionseditor-will-ferrell-sword-3oeSB1S60hCgcQ5uc8">via GIPHY</a></p>
 
-(https://giphy.com/embed/3oeSB1S60hCgcQ5uc8)
+[!Test Image](https://giphy.com/embed/3oeSB1S60hCgcQ5uc8)
 
 ## https://www.codewars.com/users/ColeWillDev ##
 
