@@ -7,7 +7,7 @@ function spinWords(string) {
       finalArr.push(el.split("").reverse().join(""));
     } else { 
       finalArr.push(el);
-    }
+    }g
   })
   return finalArr.join(" ");
 }
