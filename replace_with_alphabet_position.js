@@ -1,5 +1,8 @@
 
-https://www.codewars.com/kata/replace-with-alphabet-position/train/javascript
+//https://www.codewars.com/kata/replace-with-alphabet-position/train/javascript
+
+//passing ready to go
+
 let test = "The sunset sets at twelve o' clock.";
 function alphabetPosition(text) {
   console.log("Input:", text);
@@ -14,10 +17,11 @@ function alphabetPosition(text) {
     console.log(el, alphabet.indexOf(el.toLowerCase()));
     let eaIndex = alphabet.indexOf(el.toLowerCase());
     if (eaIndex > -1) {
-      finalArr.push(el);
+      finalArr.push(eaIndex + 1);
     }
   })
-  console.log('newString:', newString);
-
+  
+  console.log(finalArr.join(" "));
+  return finalArr.join(" ");
 }
 alphabetPosition(test);
