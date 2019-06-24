@@ -18,7 +18,7 @@ function alphabetPosition(text) {
     }
   })
   console.log('Final Arr:', finalArr);
-  return finalArr;
+  return finalArr;a
 }
 alphabetPosition("The sunset sets at twelve o' clock.");
 
