@@ -9,7 +9,6 @@ Thanks for stopping by! This is my repo where I keep all of my code wars challen
 
 ## Maximum Fun! --> Maximum Performance!
 
-I actually recorded some live videos that you can watch on youtube too! #overshare?
 
 ![](img/codewars_logo.png)
 
