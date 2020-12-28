@@ -327,7 +327,7 @@ const organize = (input) => {
     if (firstLetter !== prevLetter) {
       result += `\n\n<><><><><><><><><><> ${e[0].toUpperCase()} <><><><><><><><><><><>\n\n`;
     }
-    result += `'${e}'; '${e}', `;
+    result += `'${e}', '${e}'. '${e}'/ `;
   });
 
   console.log(
